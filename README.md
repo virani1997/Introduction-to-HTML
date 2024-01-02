@@ -1,1 +1,1 @@
-A basic project after first class on HTML
+A demo of a basic project I want from my students after first class on HTML
